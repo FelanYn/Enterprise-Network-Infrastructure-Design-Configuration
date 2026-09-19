@@ -1,0 +1,10 @@
+IT,HR,Sales 
+	 all 3 ,pc 0 are in static(ip addressing) 
+	 other pc 1, pc 2 are DHCP 
+
+	Try the PING test it will work!
+
+STATIC IPs
+	IT_PC0 192.168.10.3
+	HR_PC0 192.168.10.131
+	Sales_PC0 192.168.10.194
